@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan Teja 👋
 
-## Agentic AI & AI Agent Engineer
+## Agentic AI Engineer
 
 I design and build autonomous, stateful, and tool-enabled multi-agent systems. I specialize in developing reasoning loops (ReAct), multi-agent collaboration frameworks, long-term memory architectures, and production-grade LLM orchestrations.
 
